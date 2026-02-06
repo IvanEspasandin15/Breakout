@@ -36,7 +36,7 @@ public class GameManager : MonoBehaviour {
     // Resetear Juego
     public static void ResetGame() {
         Score = 0;
-        Lives = 3;
+        Lives = 5;
         SceneManager.LoadScene(0);
     }
 }
