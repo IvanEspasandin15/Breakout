@@ -1,4 +1,4 @@
-# Breakout
+# Breakout - Iván Nicolás Espasandín Suárez
 Este repositorio contén un xogo para Linux inspirado no clásico Breakout.
 
 ## Instruccións de Uso
